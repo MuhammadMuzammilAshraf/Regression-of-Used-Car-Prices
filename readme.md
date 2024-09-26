@@ -5,7 +5,7 @@ Predict the price of used cars based on attributes such as model year, mileage, 
 
 ## Dataset
 Download the dataset from Kaggle:
-- [Kaggle Playground Series 2024 - Used Car Price Prediction](https://www.kaggle.com/competitions/playground-series-s4e4/data)
+- [https://www.kaggle.com/competitions/playground-series-s4e9)
 
 The dataset consists of two CSV files:
 - **train.csv**: Training data with car features and prices.
